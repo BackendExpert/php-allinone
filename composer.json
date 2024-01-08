@@ -2,6 +2,7 @@
     "name": "backendexpert/php-allinone",
     "description": "all common functions in Web Development",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
